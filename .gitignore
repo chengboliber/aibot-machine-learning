@@ -1,1 +1,14 @@
-'.idea' 
+'.idea'
+.idea/aibot-machine-learning.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+application/__pycache__/
+application/config/__pycache__/
+application/controller/__pycache__/
+application/middles/__pycache__/
+application/models/__pycache__/
+application/util/__pycache__/
+machine_learning_label/classify/__pycache__/
+venv/
